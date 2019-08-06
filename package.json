@@ -1,6 +1,6 @@
 {
-  "name": "react-share",
-  "version": "3.0.0",
+  "name": "kimiiz-react-share",
+  "version": "1.0.0",
   "description": "Social media share buttons and share counts for React. forked from nygardk/react-share",
   "main": "./lib/index.js",
   "module": "./es/index.js",
