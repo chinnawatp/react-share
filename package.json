@@ -1,5 +1,5 @@
 {
-  "name": "kimiiz-react-share",
+  "name": "venuee-react-share",
   "version": "1.0.0",
   "description": "Social media share buttons and share counts for React. forked from nygardk/react-share",
   "main": "./lib/index.js",
@@ -36,11 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kimiiz55/react-share"
-  },
-  "author": {
-    "name": "Pongnares Chuthong",
-    "email": "pongnares.ct@gmail.com"
+    "url": "https://github.com/chinnawatp/react-share"
   },
   "license": "MIT",
   "devDependencies": {
